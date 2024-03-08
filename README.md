@@ -1,4 +1,8 @@
-### Hi there 👋
+<h3 align="left">Hi, I'm Juyoung Shin 👋</h3>
+
+### Activity
+- Hongik ExP Make(2023.9 ~ 2024.2)
+
 
 <!--
 **jyshin9/jyshin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
