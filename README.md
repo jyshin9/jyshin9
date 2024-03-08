@@ -1,7 +1,7 @@
-<h3 align="left">Hi, I'm Juyoung Shin 👋</h3>
+<h2 align="left">Hi, I'm Juyoung Shin 👋</h2>
 
 ### Activity
-- Hongik ExP Make(2023.9 ~ 2024.2)
+- Hongik ExP Make(2023.09 ~ 2024.02)
 
 
 <!--
