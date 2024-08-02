@@ -1,6 +1,7 @@
 <h2 align="left">Hi, I'm Juyoung Shin 👋</h2>
 
 ### Activity
+- Codeit boost 홍익대학교(2023.04 ~ 진행중)
 - Hongik ExP Make(2023.09 ~ 2024.02)
 
 
