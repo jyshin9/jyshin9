@@ -1,8 +1,8 @@
 <h2 align="left">Hi, I'm Juyoung Shin 👋</h2>
 
 ### Activity
-- University MakeUs Challenge(UMC) 홍익대학교(2024.09 ~ 진행중)
-- Codeit boost 홍익대학교(2024.04 ~ 진행중)
+- University MakeUs Challenge(UMC) 홍익대학교(2024.09 ~ 2025.2)
+- Codeit boost 홍익대학교(2024.04 ~ 2024.11)
 - Hongik ExP Make(2023.09 ~ 2024.02)
 
 
